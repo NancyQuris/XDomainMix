@@ -9,7 +9,7 @@ We decompose features into class-generic, class-specific, domain-generic, and do
 Feature augmentation is performed by changing domain-specific components of a feature while preserving class-specific components.
 
 <p align="center">
-       <img src="overview.png" width="50%">
+       <img src="overview.png">
 </p>
 
 On benchmark datasets, we achieve the following results:
