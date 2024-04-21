@@ -1,6 +1,6 @@
 # Cross-Domain Feature Augmentation for Domain Generalization
 
-This repository contains the official implementation of the XDomainMix algorithm and empirical studies in Cross-Domain Feature Augmentation for Domain Generalization in IJCAI 2024.
+This repository contains the implementation of the XDomainMix algorithm and empirical studies in Cross-Domain Feature Augmentation for Domain Generalization in IJCAI 2024.
 
 ## Overview 
 
@@ -35,13 +35,13 @@ The dependencies in `requirments.txt` should be installed to run the experiments
 
 ### Training to get domain generalization performance 
 
-Camelyon and FMoW dataset
+**Camelyon and FMoW dataset**
 - under `wilds/` directory, run 
 ```
 python main.py --dataset {dataset_name} --algorithm xdomain_mix --data-dir '/my/datasets/path'
 ``` 
 
-PACS, TerraIncognita and DomainNet dataset (based on the README of DomainBed)
+**PACS, TerraIncognita and DomainNet dataset** (based on the README of DomainBed)
 - download data by running 
 ```
 python -m domainbed.scripts.download --data_dir=/my/datasets/path
