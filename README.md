@@ -1,6 +1,6 @@
 # Cross-Domain Feature Augmentation for Domain Generalization
 
-This repository contains the implementation of the XDomainMix algorithm and empirical studies in Cross-Domain Feature Augmentation for Domain Generalization in IJCAI 2024.
+This repository contains the implementation of the XDomainMix algorithm and empirical studies in Cross-Domain Feature Augmentation for Domain Generalization in IJCAI 2024. The arXiv version of the paper and the supplementary materials can be found at https://arxiv.org/abs/2405.08586.
 
 ## Overview 
 
