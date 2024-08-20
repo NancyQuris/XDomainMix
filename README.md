@@ -109,14 +109,23 @@ python -m feature_importance.eval_feature_importance \
 ### Feature visualization
 Specify data dir (path to dataset) and model dir (path to saved model) in the notebooks 
 
-<!-- ## Citation
+## Citation
  If you find our paper useful, you are welcome to cite it as 
 
  ```
- @inproceedings{liu2024,
-  title={Cross-Domain Feature Augmentation for Domain Generalization},
-  author={},
-  booktitle={Proceeding of },
-  year={2024}
+ @inproceedings{liu2024cross,
+  title     = {Cross-Domain Feature Augmentation for Domain Generalization},
+  author    = {Liu, Yingnan and Zou, Yingtian and Qiao, Rui and Liu, Fusheng and Lee, Mong Li and Hsu, Wynne},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {1146--1154},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/127},
+  url       = {https://doi.org/10.24963/ijcai.2024/127},
 }
- ``` -->
+
+ ```
